@@ -1,0 +1,1 @@
+// no javascript this project was done with html and css
