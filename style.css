@@ -1,8 +1,6 @@
 body{
     font-family: Roboto, arial;
-    margin: 0px;
-    
-    
+    margin: 0px;    
 }
 
 .page{
@@ -13,7 +11,6 @@ body{
     padding-top: 100px;
     padding-left: 95px;
     background-color: rgb(228, 226, 225);
-
 }
 @media (max-width: 800px) {
     .page{
@@ -38,7 +35,6 @@ body{
     bottom: 10px;
     right:5px;
     padding: 2px 2px 4px 4px;
-
 }
 .thumbnail{
     width: 100%;
@@ -47,14 +43,12 @@ body{
 .caption{
     display: flex;
     flex-direction: row;
-
 }
 .dp{
     width: 50px;
     height: 50px;
     object-fit: cover;
-    border-radius: 20px;
-    
+    border-radius: 20px;  
     margin-right: 10px;
 }
 
@@ -64,21 +58,19 @@ body{
     width: 250px;
     font-size: 14px;
     font-weight: bold;
-
 }
+
 .name{
     font-size: 12px;
     margin-top: 8px;
     color: gray;
     margin-bottom: 0px;
-    
-
 }
+
 .sub{
     font-size: 12px;
     margin-top: none;
     color: gray;
     margin-top: 0px;
     margin-bottom: 0px;
-
 }
