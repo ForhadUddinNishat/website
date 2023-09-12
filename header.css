@@ -106,7 +106,12 @@
     height: 24px;
 }
 .my-channel{
+    width: 24px;
     height: 24px;
+    border-radius: 12px;
+    justify-content: center;
+    object-fit: cover;
+
 }
 
 
